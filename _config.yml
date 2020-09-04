@@ -10,10 +10,10 @@ author: Sankalp Arora
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research Interests:
+    - Machine Learning: "https://beautifuljekyll.com"
+    - Artificial Intelligence: "https://www.markdowntutorial.com/"
+  CV: "https://deanattali.com"
 
 # --- Logo --- #
 
